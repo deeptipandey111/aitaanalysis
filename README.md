@@ -16,4 +16,4 @@ green: ![Frame 20 (1)](https://user-images.githubusercontent.com/11023465/132768
 Most common actions: 
 red: ![Frame 20](https://user-images.githubusercontent.com/11023465/132768014-43f7a509-2117-4ccb-ba27-3588d4e32254.png)
 
-
+While *friend* won over family members as being subjects(would have expected *mom* + *dad*), the most common actions that people discussed was *wanting*. I find it so interesting that when posters come to fellow redditors looking for judgement on whether they were the a$$hole in the situation, they are conflicted on whether they are the a$$hole for *wanting* something. The top personal conflict is not even about something that they *did*. It's about something they *want* to do/be/feel. 
