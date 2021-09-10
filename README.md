@@ -1,4 +1,4 @@
-# What happens on r/aita?
+# Who's the a-hole?
 Data Analysis of the subreddit aita: https://www.reddit.com/r/AmItheAsshole/ 
 
 <img width="1788" alt="Screen Shot 2021-09-09 at 6 00 30 PM" src="https://user-images.githubusercontent.com/11023465/132768343-5439503a-4481-4501-ae94-981f84319654.png">
